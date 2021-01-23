@@ -1171,9 +1171,6 @@ def main():
 
           st.markdown(page_bg_img, unsafe_allow_html=True)
           st.subheader("")
-          st.markdown("")
-          st.subheader("")
-          st.markdown("")
 
           st.subheader("The pictures our the second power plant is:")
           st.markdown("https://drive.google.com/file/d/1fJu85e0Hv9HOfzMg1TYdK_lfg0a0KJ5Y/view?usp=sharing")
