@@ -1163,7 +1163,7 @@ def main():
           page_bg_img = '''
           <style>
           body {
-          background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2019/03/Subtle-Lines-Abstract-Gradient-Background-White.jpg");
+          background-image: url("https://lh3.googleusercontent.com/proxy/-rvvkgawfPapEYEVp41yHtWvsRV1ua6F7o83jGshBa3kVsslJJ3GwX6MsRaCIK4_HaqzC0sz7SguM5QfaGGf-RANB692SpVJ9axU39gpQEJuwHdUT0tkhnLmqswJSXVV");
           background-size: cover;
           }
           </style>
