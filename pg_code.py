@@ -1170,9 +1170,9 @@ def main():
           '''
 
           st.markdown(page_bg_img, unsafe_allow_html=True)
-          st.subheader("The video of first power plant is:")
+          st.subheader("")
           st.markdown("")
-          st.subheader("The video of second power plant is:")
+          st.subheader("")
           st.markdown("")
 
           st.subheader("The pictures our the second power plant is:")
