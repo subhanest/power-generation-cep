@@ -28,7 +28,7 @@ def main():
           page_bg_img = '''
           <style>
           body {
-          background-image: url("https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/252832/image-1589414925946-28e4d0912682e877c15d3d381cd4a7c1.png");
+          background-image: url("https://i.pinimg.com/originals/e2/71/fd/e271fda72f1e158b5f0569cc72d36d7f.jpg");
           background-size: cover;
           }
           </style>
@@ -1163,7 +1163,7 @@ def main():
           page_bg_img = '''
           <style>
           body {
-          background-image: url("https://cdn.lynda.com/course/418967/418967-637286179665471004-16x9.jpg");
+          background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2019/03/Subtle-Lines-Abstract-Gradient-Background-White.jpg");
           background-size: cover;
           }
           </style>
@@ -1172,7 +1172,7 @@ def main():
           st.markdown(page_bg_img, unsafe_allow_html=True)
           st.subheader("")
 
-          st.subheader("The pictures our the second power plant is:")
+          st.subheader("The pictures our the first power plant is:")
           st.markdown("https://drive.google.com/file/d/1fJu85e0Hv9HOfzMg1TYdK_lfg0a0KJ5Y/view?usp=sharing")
           st.markdown("https://drive.google.com/file/d/1wsbLLaj38l2mzhM3RZ4NozGC2PhfdMFY/view?usp=sharing")
           st.markdown("https://drive.google.com/file/d/17fytwHdoDct3yKYJ1gb0z2Z3qI0ZOpeF/view?usp=sharing")
@@ -1243,7 +1243,7 @@ def main():
                avg2 = int(avg1)
                plc2 = int(plc1)
                pcf  = (avg2/plc2)
-               st.markdown("The Load Factor is:")
+               st.markdown("The Plant capacity Factor is:")
                st.subheader(pcf)
           except:
                pass
